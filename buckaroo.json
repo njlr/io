@@ -1,0 +1,6 @@
+{
+  "name": "boost-io",
+  "dependencies": {
+    "boost-detail": "1.63.0"
+  }
+}
